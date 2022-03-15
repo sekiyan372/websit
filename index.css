@@ -1,0 +1,26 @@
+.card {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+
+.text {
+  padding: 10px;
+}
+
+/* .text::first-line {
+  color: aqua;
+} */
+
+.text:hover {
+  color: white;
+}
+
+li {
+  color: red;
+}
+
+#member {
+  color: blue;
+}
